@@ -23,7 +23,7 @@ Instead of creating a generic chatbot, I designed a guided interview experience 
 
 ## 🌐 Live Demo
 
-(put your Vercel link here)
+https://interview-copilot-ashen.vercel.app/
 
 ## 📦 Setup
 
